@@ -1,0 +1,22 @@
+User-defined/Custom modules:
+-Created by individual developers for specific needs.
+-Can include functions, classes, and variables designed for a particular purpose.
+-Need to be explicitly created and imported into Python scripts.
+
+
+Standard library module:
+-Part of the Python standard library.
+-Provides a set of mathematical functions and constants.
+-Already available for use without additional installation.
+
+-Examples:
+--math Module: Provides mathematical functions and constants for various operations.
+--os Module: Provides interaction with the operating system for tasks like file and directory manipulation.
+--random Module: Offers functions for generating random numbers and making random selections.
+--datetime Module: Contains classes for working with dates and times.
+--json Module: Enables encoding and decoding of JSON data for data interchange.
+--urllib Module: Includes modules for working with URLs, including fetching data from the web.
+--re Module: Implements regular expressions for string matching and manipulation.
+--collections Module: Provides specialized container datatypes like namedtuple, Counter, and defaultdict.
+--sys Module: Offers access to variables used or maintained by the Python interpreter and functions for interaction.
+--csv Module: Simplifies reading from and writing to CSV (Comma-Separated Values) files.
